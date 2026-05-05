@@ -4,7 +4,7 @@
 
 ---
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Bhargav Talukdar
 
 🎯 **Business Analytics & Marketing Management Enthusiast**
 📊 Passionate about turning data into actionable insights
