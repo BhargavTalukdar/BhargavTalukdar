@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!Here’s a clean and professional **GitHub profile README** you can use. You can copy–paste and tweak it:
+<img width="450" height="245" alt="image" src="https://github.com/user-attachments/assets/0062ef71-6a72-467e-82f0-6b66f83bad06" />
 
 ---
 
